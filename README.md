@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio
 
-Hello! I'm Sandeep, an aspiring Data Analyst.
+Hello! I'm Prateek Sikarwar, an aspiring Data Analyst.
 
 ## 🔹 Skills
 - SQL (PostgreSQL)
