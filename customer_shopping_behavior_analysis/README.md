@@ -88,7 +88,6 @@ from customer
 group by gender;
 
 More queries available in SQL file.  
-:contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -112,11 +111,14 @@ More queries available in SQL file.
 This project demonstrates how data analytics tools can be combined to extract meaningful insights from customer data and improve business performance.
 
 ---
-
 ## 📁 Project Structure
-Customer-Shopping-Behavior-analysis/
-│── data/
-│── sql/
-│── notebook/
-│── dashboard.pbix
-│── README.md
+```text
+customer_shopping_behavior_analysis/
+├── Customer Shopping Behavior Analysis.pdf
+├── Customer_Shopping_behavior_Analysis.ipynb
+├── customer_behavior_dashboard.pbix
+├── customer_behavior_sqldatabase.sql
+├── customer_shopping_behavior.csv
+├── Screenshot 2026-03-22 201043.png
+├── Screenshot 2026-03-22 201106.png
+└── README.md 
