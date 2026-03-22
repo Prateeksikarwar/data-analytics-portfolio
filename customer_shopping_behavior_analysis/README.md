@@ -4,6 +4,8 @@
 This project analyzes customer shopping behavior using Python, SQL, and Power BI. It focuses on understanding customer purchasing patterns, subscription behavior, and category-wise sales performance.
 
 The dashboard provides interactive visual insights that help businesses make data-driven decisions.
+<img width="1203" height="738" alt="Screenshot 2026-03-22 201043" src="https://github.com/user-attachments/assets/ee3f2662-f4e2-40c2-a1c1-d7fc3e62798f" />
+
 
 ---
 
