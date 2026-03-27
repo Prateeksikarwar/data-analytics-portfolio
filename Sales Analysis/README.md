@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Dashboard
+# 📊 Sales data Analysis Dashboard
 
 ## 📌 Project Overview
 This project focuses on analyzing sales data to understand business performance, customer behavior, and product trends. The dashboard provides key insights using interactive visualizations.
