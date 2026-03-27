@@ -49,7 +49,23 @@ This project analyzes customer shopping behavior and presents insights through a
 
 **Project Link:**  
 https://github.com/Prateeksikarwar/data-analytics-portfolio/tree/main/customer_shopping_behavior_analysis
+---
+3. 📊 Sales Analysis Project
 
+Tools Used: Python, SQL, Power BI
+
+This project focuses on analyzing sales data to understand business performance and trends. The analysis is done using Python for data processing, SQL for querying, and Power BI for visualization.
+
+Key Highlights:
+
+Sales trend analysis over time
+Top-selling products identification
+Revenue and profit analysis
+Category-wise performance evaluation
+Interactive dashboard creation
+
+Project Link:
+https://github.com/Prateeksikarwar/data-analytics-portfolio/tree/main/Sales-Analysis
 ---
 
 ## 📈 Portfolio Summary
